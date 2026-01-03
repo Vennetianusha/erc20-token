@@ -5,7 +5,6 @@ This project demonstrates the creation of a basic ERC-20 token using Solidity.
 The smart contract was developed, compiled, deployed, and tested using Remix IDE on the Remix VM environment.
 
 This project helps in understanding how ERC-20 tokens work on the Ethereum blockchain, including balance tracking, token transfers, and allowance mechanisms.
-
 ---
 
 ## Token Details
